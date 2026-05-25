@@ -1,18 +1,22 @@
 # Week 12 - Studio Analysis
-Short blurb about what today's lab is.
+In today's class, you'll be doing some light research into the practicalities of design and development for different types of games.
+
+This is a little different to the other pracs, but we hope it'll be a fun and informative way to end this part of the unit (lectures and SGTAs will still run in Week 13).
 
 ## Tools used
 Today's task uses (but is not limited to):
 
-* Github Desktop (or your Github client of choice)
-* Unity
-* Photoshop
+* itch.io
+* Search engines
+* The Web Archive
 
 ## Assignment deliverable
-Today, you should be working towards creating/contributing towards/refining ASSIGNMENT DELIVERABLE for your ASSIGNMENT NAME.
+There is no assignment deliverable today. However, if you haven't found a game to analyse for Entry 01 of your Design/UX Journal yet, this might be the time!
 
-## Task
+## Task 01 - LEUs and LETs (15 min)
 Description of a particular part of the task.
+
+## Task 02 - 
 
 
 ### Reflect
